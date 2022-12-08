@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.2.
 
-Spring Security and Angular tutorial transcribed from the site: **[Spring by VMware Tanzu](https://bit.ly/3uzkwfz)**
+This repository is transcribed from this **[Spring by VMware Tanzu](https://bit.ly/3uzkwfz)** with some adjustments 
 
 Note: This transcript is under development
 
